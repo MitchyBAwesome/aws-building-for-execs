@@ -1,8 +1,8 @@
-baseURL = "https://helloworld.immersionday.com"
+baseURL = "https://aws.amazon.com"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "My AWS Workshop"
+title = "Building for Executives"
 theme = "learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
@@ -13,9 +13,8 @@ pygmentsCodeFences = true
 pygmentsStyle = "monokai"
 
 [params]
-  editURL = "https://code.amazon.com/packages/Aws-workshop-template/blobs/master/--/workshop/content/"
-  description = "My AWS Workshop"
-  author = "Jane Architect"
+  description = "Building for Executives"
+  author = "AWS"
   disableBreadcrumb = false
   disableNextPrev = false
   themeVariant = "aws"
@@ -34,11 +33,6 @@ hrefTargetBlank = true
 
 [Languages]
 [Languages.en]
-title = "My AWS Workshop"
+title = "Building for Executives"
 weight = 1
 languageName = "English"
-
-[Languages.fr]
-title = "Mon atelier AWS"
-weight = 2
-languageName = "Français"
