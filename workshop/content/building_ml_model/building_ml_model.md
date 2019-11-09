@@ -7,7 +7,7 @@ weight = 3
 
 2. The next step is to use this data to create a solution. Click **Start** under **Create solutions**.
 
-3. Specify the solution name as product-recommendations-team-#. Leave the recipe selection as Manual, and choose the aws-personalized-ranking solution from the drop down box. This algorithm once trained on the data we imported will allow us to rank an input list of items for a given user. Other algorithms that can be selected allow recommendations based on other factors included in the data imported, such as demographics.
+3. Specify the solution name as product-recommendations-team-#. Leave the recipe selection as Manual, and choose the aws-personalized-ranking solution from the drop down box. This algorithm once trained on the data we imported will allow us to rank an input list of items for a given user. Other algorithms that can be selected to allow recommendations based on other factors included in the data imported, such as demographics.
 
 4. Leave the solution configuration as default. These are optional parameters that can be tuned if required. Click **Next**.
 
