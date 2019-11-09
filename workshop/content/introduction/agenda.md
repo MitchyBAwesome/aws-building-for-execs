@@ -1,16 +1,14 @@
 +++
-title = "Agenda"
+title = "What's our Agenda?"
 weight = 3
 +++
 
-At least **90-120 minutes** is required for the workshop and high level discussions to solidify takeaway points.
+At least **90-120 minutes** is required for the workshop, this includes time for some high-level discussions to **emphasize** key takeaway points.
 
-- Introduction to the workshop (5 minutes)
-
-- Introducing narrative (5 minutes)
-
-- Workshop (60 minutes)
-
-- Demo (15 minutes)
-
-- Sharing of learnings (20 minutes)
+| Activity | Time |
+|---|---|
+| Introduction to the workshop | 5 minutes |
+| Introducing the narrative | 5 minutes |
+| Hands-on Building | 60 minutes |
+| Demo | 15 minutes |
+| Debrief | 20 minutes |

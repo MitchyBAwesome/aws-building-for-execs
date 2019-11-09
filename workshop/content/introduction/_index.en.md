@@ -4,38 +4,34 @@ chapter = true
 weight = 1
 +++
 
-To run this workshop, you’ll need the following:
+This workshop provides context and understanding regarding emerging technologies to organizational decision makers. Participants will have the opportunity to get hands on with the platform and understand the different technology capabilities from a developer’s perspective.
 
-<div align="left">
+{{% notice info %}}
+
+This workshop has been developed for business leaders/decision makers regardless of their role or level of capability with technology.
+
+{{% /notice %}}
+
+### Participants will gain an understanding of the following:
 
 <ol>
-<li>
-A room to fit all participants broken into teams, each around a table as well as (optional) 2m x 2m x 2m space for indoor drone flight ... yes we said <b>DRONES</b>.
-</li>
-<br>
-<li>
-A table for each team with monitor, <b>keyboard/mouse</b> and <b>laptop</b>. Teams of 5 max preferred.
-</li>
-<br>
-<li>
-A <b>whiteboard</b> for any diagrams required.
-</li>
-<br>
-<li>
-<b>Projector</b> for introduction and narrative
-</li>
-<br>
-<li>
-A friendly Solutions Archtiect or Technical Account Manager to work with each table and help guide workshop and discussion.
-</li>
-<br>
-<li>
-An <b>Amazon Echo</b> device that is associated with an Alexa account. Each workstation should be logged into the Alexa developer portal.
-</li>
-<br>
-<li>
-(Optional) Crazyflie indoor explorer bundle plus extra drones and 4 lighting stands: [From here](https://store.bitcraze.io/products/indoor-explorer-bundle)
-</li>
-</ol>
-</div>
-
+    <li>
+        Emerging technologies provided on the AWS platform to gain competitive advantage in their industry
+    </li>
+    <br>
+    <li>
+        Two way door decisions in relation to experimenting with technology on the AWS platform
+    </li>
+    <br>
+    <li>
+        The cost model for services on the platform
+    </li>
+    <br>
+    <li>
+        Technology that was considered previously out of reach without specialist skills, such as machine learning
+    </li>
+    <br>
+    <li>
+        How their business can adopt technology to solve problems or challenges in their business
+    </li>
+<ol>
