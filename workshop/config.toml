@@ -1,6 +1,8 @@
-baseURL = "https://aws.amazon.com"
+baseURL = "https://exec.awsbuilders.io/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
+googleAnalytics = "UA-41627770-2"
+relativeURLs = true
 
 title = "Building for Executives"
 theme = "learn"
@@ -13,8 +15,10 @@ pygmentsCodeFences = true
 pygmentsStyle = "monokai"
 
 [params]
+  editURL = "https://github.com/MitchyBAwesome/aws-building-for-execs/edit/master/content/"
   description = "Building for Executives"
   author = "AWS"
+  ghrepo = "https://github.com/MitchyBAwesome/aws-building-for-execs"
   disableBreadcrumb = false
   disableNextPrev = false
   themeVariant = "aws"
@@ -36,3 +40,8 @@ hrefTargetBlank = true
 title = "Building for Executives"
 weight = 1
 languageName = "English"
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'></i> GitHub Project"
+url = "https://github.com/MitchyBAwesome/aws-building-for-execs"
+weight = 30

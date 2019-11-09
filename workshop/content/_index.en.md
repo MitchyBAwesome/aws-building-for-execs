@@ -1,7 +1,11 @@
 +++
-title = "Building for Executives"
+title = "Welcome Executive Builders"
 chapter = true
 weight = 1
 +++
 
-![introduction-01](/images/introduction-01.png)
+Hey there, and thanks for joining us! We hope you're looking forward to learning how emerging technologies can help solve problems and challenges in your business.
+
+Building for Exectives is an interactive workshop that will give an opportunity to get hands on with the AWS platform and gain an understanding of different technology capabilities, from a developer’s perspective.
+
+**Let's get building!**
