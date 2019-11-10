@@ -1,10 +1,10 @@
 +++
-title = "Welcome Executive Builders"
+title = "Building for Executives"
 chapter = true
 weight = 1
 +++
 
-![exec-shirt](/images/introduction-03.png)
+![exec-shirt](/images/introduction-05.png)
 
 Hey there, and thanks for joining us! We hope you're looking forward to learning how emerging technologies can help solve problems and challenges in your business.
 
