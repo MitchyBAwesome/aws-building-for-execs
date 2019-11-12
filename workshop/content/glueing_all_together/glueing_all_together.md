@@ -107,7 +107,7 @@ weight = 2
             elif dialog_state == "COMPLETED":
                 
                 #Step 1: Extract First Name from Alexa slot
-                first_Name = (event['request']['intent']['slots']['name']['value']).capitalize()
+                first_Name = (event['request']['intent']['slots']['name']['value']).lower()
                 print(first_Name)
                 
                 #Step 2: Use the First Name to get the users Mobile number and UserID from DynamoDB
