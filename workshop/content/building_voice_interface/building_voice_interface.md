@@ -13,7 +13,7 @@ weight = 2
         - Surprise me
         - Send me something
         - surprise me its {name}
-        - It’s {name} surprise me
+        - Its {name} surprise me
 
     - Slot: You may have noticed in the above examples that name is in curly brackets. This is to indicate that this is a variable value. Obviously, we’re going to need to know the customer’s name, so we can either get that information from their initial utterance, or we can ask them for it. Scroll to the bottom and observe the added Intent slot called name. Set the Slot Type to firstname to ensure the Alexa skill recognises the type of data being provided. Click Edit Dialog, and enable Is this slot required to fulfil the intent. Under Alexa speech prompts, add What is your name and click +. Under User utterances add My name is {name} and click *+*. This ensures your skill is able to collect the user’s name if they haven’t already provided it.
 
