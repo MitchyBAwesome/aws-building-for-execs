@@ -7,7 +7,7 @@ weight = 2
 
 2. Interact with the Alexa simulator by typing or talking into the microphone the following:
 
-    - “Open Daily Deals team #”
+    - “Open Daily Deal team #”
 
     - “Surprise me”
 
